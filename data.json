@@ -1,40 +1,372 @@
 {
   "siteTitle": "Green Lantern Reading Order & Collection Tracker",
-  "subtitle": "Complete Chronological Guide, Story Arcs, Creators & Collected Editions (1940–2026)",
-  "items": [
+  "subtitle": "Complete Chronological Reading Order, Story Arcs, Creators & Collected Editions (1940–2026)",
+  "editions": {
+    "gl-ga-arch-1": {
+      "title": "Golden Age Green Lantern Archives Vol. 1",
+      "format": "Archive HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Golden+Age+Green+Lantern+Archives+Vol.+1",
+      "dc_wiki": "https://dc.fandom.com/wiki/Golden_Age_Green_Lantern_Archives_Vol_1"
+    },
+    "gl-ga-arch-2": {
+      "title": "Golden Age Green Lantern Archives Vol. 2",
+      "format": "Archive HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Golden+Age+Green+Lantern+Archives+Vol.+2",
+      "dc_wiki": "https://dc.fandom.com/wiki/Golden_Age_Green_Lantern_Archives_Vol_2"
+    },
+    "gl-ga-uncollected": {
+      "title": "Mostly Uncollected (All-American #16 & Comic Cavalcade #6 sampled in anthologies)",
+      "format": "Uncollected",
+      "owned": false,
+      "uncollected": true,
+      "locg_url": "",
+      "dc_wiki": ""
+    },
+    "gl-jsa-arch": {
+      "title": "All-Star Comics Archives (JSA issues partially collected)",
+      "format": "Archive HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=All-Star+Comics+Archives",
+      "dc_wiki": ""
+    },
+    "gl-sa-omni-1": {
+      "title": "Green Lantern: The Silver Age Omnibus Vol. 1 (#1–35)",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Omnibus+Vol.+1",
+      "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern:_The_Silver_Age_Omnibus_Vol._1"
+    },
+    "gl-sa-omni-2": {
+      "title": "Green Lantern: The Silver Age Omnibus Vol. 2 [2025 ed.] (#36–75)",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Omnibus+Vol.+2",
+      "dc_wiki": ""
+    },
+    "gl-sa-tpb": {
+      "title": "Green Lantern: The Silver Age Vol. 1–2 (#1–22) / Chronicles Vol. 1–4 (#1–20)",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Vol.+1",
+      "dc_wiki": ""
+    },
+    "gl-dcf-defeat": {
+      "title": "DC Finest: Green Lantern – The Defeat of Green Lantern (GL #19–39, Flash #143, B&B #59)",
+      "format": "DC Finest TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+The+Defeat+of+Green+Lantern",
+      "dc_wiki": ""
+    },
+    "gl-dcf-other": {
+      "title": "DC Finest: Green Lantern – Earth's Other Green Lantern (GL #40–61, B&B #69)",
+      "format": "DC Finest TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Earth%27s+Other+Green+Lantern",
+      "dc_wiki": ""
+    },
+    "gl-dcf-hth": {
+      "title": "DC Finest: Green Lantern – Hard-Traveling Heroes [2026] (#62–82, Flash #191, WF #201)",
+      "format": "DC Finest TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Hard-Traveling+Heroes",
+      "dc_wiki": ""
+    },
+    "gl-jla-dcf": {
+      "title": "JLA / DC Finest: Justice League of America",
+      "format": "DC Finest TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Justice+League+of+America",
+      "dc_wiki": ""
+    },
+    "gl-hth-omni": {
+      "title": "Green Lantern/Green Arrow: Hard-Traveling Heroes Omnibus (#76–87, #89–123 + Flash backups & specials)",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hard-Traveling+Heroes+Omnibus",
+      "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern/Green_Arrow:_Hard_Traveling_Heroes_Omnibus"
+    },
+    "gl-sth-tpb": {
+      "title": "Green Lantern/Green Arrow: Space Traveling Heroes (#90–106 + partial Flash backups)",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Space+Traveling+Heroes",
+      "dc_wiki": ""
+    },
+    "gl-ba-uncollected": {
+      "title": "Uncollected Bronze Age Gap (GL #124–147 & GLC #220–224)",
+      "format": "Uncollected",
+      "owned": false,
+      "uncollected": true,
+      "locg_url": "",
+      "dc_wiki": ""
+    },
+    "gl-totglc-tpb": {
+      "title": "Tales of the Green Lantern Corps Vol. 1 & Vol. 2",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Tales+of+the+Green+Lantern+Corps",
+      "dc_wiki": ""
+    },
+    "gl-sec2814-tpb": {
+      "title": "Green Lantern: Sector 2814 Vol. 1–3 & COIE Companion Deluxe Vol. 1 / DC Finest: COIE Part 2",
+      "format": "TPB / HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Sector+2814",
+      "dc_wiki": ""
+    },
+    "gl-dcf-setup": {
+      "title": "DC Finest: Green Lantern – Setting Up Shop (Sept 29, 2026)",
+      "format": "DC Finest TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Setting+Up+Shop",
+      "dc_wiki": ""
+    },
+    "gl-90s-uncollected": {
+      "title": "GL Vol. 3 #9–26 Uncollected (Mosaic #18 in John Stewart: 50 Years; Faster Friends TPB)",
+      "format": "Uncollected / Partial",
+      "owned": false,
+      "uncollected": true,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=John+Stewart+50+Years",
+      "dc_wiki": ""
+    },
+    "gl-kyle-comp": {
+      "title": "Green Lantern: Kyle Rayner Rising Compendium (GL #0, #48–65 + tie-ins) & Kyle Rayner Vol. 1",
+      "format": "Compendium TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Kyle+Rayner+Rising+Compendium",
+      "dc_wiki": ""
+    },
+    "gl-final-night": {
+      "title": "The Final Night TPB (Showcase '95 #7–8 in GLC by Tomasi Omnibus Vol. 1)",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=The+Final+Night",
+      "dc_wiki": ""
+    },
+    "gl-em-knights": {
+      "title": "Green Lantern: Emerald Knights & Day of Judgment TPBs",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Emerald+Knights",
+      "dc_wiki": ""
+    },
+    "gl-johns-omni-1": {
+      "title": "Green Lantern by Geoff Johns Omnibus Vol. 1",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+1",
+      "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_by_Geoff_Johns_Omnibus_Vol._1"
+    },
+    "gl-johns-omni-2": {
+      "title": "Green Lantern by Geoff Johns Omnibus Vol. 2",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+2",
+      "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_by_Geoff_Johns_Omnibus_Vol._2"
+    },
+    "gl-johns-omni-3": {
+      "title": "Green Lantern by Geoff Johns Omnibus Vol. 3",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+3",
+      "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_by_Geoff_Johns_Omnibus_Vol._3"
+    },
+    "gl-tomasi-omni-1": {
+      "title": "Green Lantern Corps by Tomasi & Gleason Omnibus Vol. 1",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+by+Peter+J.+Tomasi+Omnibus+Vol.+1",
+      "dc_wiki": ""
+    },
+    "gl-tomasi-omni-2": {
+      "title": "Green Lantern Corps by Tomasi & Gleason Omnibus Vol. 2",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+by+Peter+J.+Tomasi+Omnibus+Vol.+2",
+      "dc_wiki": ""
+    },
+    "gl-johns-comp": {
+      "title": "GL Compendium One: Rebirth; Compendium Two: Sinestro Corps War [2026]; Blackest Night [2027] & Thick TPBs Book 1–4",
+      "format": "Compendium / TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Compendium+One+Rebirth",
+      "dc_wiki": ""
+    },
+    "gl-venditti-omni-1": {
+      "title": "Green Lantern by Robert Venditti Omnibus Vol. 1",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Robert+Venditti+Omnibus+Vol.+1",
+      "dc_wiki": ""
+    },
+    "gl-venditti-omni-2": {
+      "title": "Green Lantern by Robert Venditti Omnibus Vol. 2",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Robert+Venditti+Omnibus+Vol.+2",
+      "dc_wiki": ""
+    },
+    "gl-red-omni": {
+      "title": "Red Lanterns: The New 52 Omnibus (#0–40 + crossovers)",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Red+Lanterns+The+New+52+Omnibus",
+      "dc_wiki": ""
+    },
+    "gl-hjglc-omni-1": {
+      "title": "Hal Jordan & the GLC by Venditti Omnibus Vol. 1 [2026] (#1–21 + Lost Army & Edge of Oblivion) & Vol. 2 [2027] (#22–50)",
+      "format": "Omnibus HC",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hal+Jordan+and+the+Green+Lantern+Corps+Omnibus+Vol.+1",
+      "dc_wiki": ""
+    },
+    "gl-hjglc-tpbs": {
+      "title": "Hal Jordan and the Green Lantern Corps Vol. 1–7",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hal+Jordan+and+the+Green+Lantern+Corps+Vol.+1",
+      "dc_wiki": ""
+    },
+    "gl-green-lanterns-tpbs": {
+      "title": "Green Lanterns Vol. 1–9",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lanterns+Vol.+1+Rage+Planet",
+      "dc_wiki": ""
+    },
+    "gl-morrison-omni": {
+      "title": "The Green Lantern by Grant Morrison and Liam Sharp Omnibus [2027] & 4 TPBs",
+      "format": "Omnibus HC / TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=The+Green+Lantern+by+Grant+Morrison+Omnibus",
+      "dc_wiki": ""
+    },
+    "gl-far-sector": {
+      "title": "Far Sector Deluxe & Compact Editions; Young Justice Vol. 1–3; Future State: Justice League",
+      "format": "Deluxe HC / TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Far+Sector",
+      "dc_wiki": ""
+    },
+    "gl-thorne-tpbs": {
+      "title": "Green Lantern Vol. 1: Invictus & Vol. 2: Horatius",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+1+Invictus",
+      "dc_wiki": ""
+    },
+    "gl-alan-scott-tpb": {
+      "title": "Alan Scott: The Green Lantern TPB",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Alan+Scott+The+Green+Lantern",
+      "dc_wiki": ""
+    },
+    "gl-adams-tpbs": {
+      "title": "Green Lantern (2023) Vol. 1: Back in Action, Vol. 2: Love and War, Vol. 3: Power of Will, Vol. 4: Civil Corps, Vol. 5: Fractured Spectrum & Justice League Red TPB",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+1+Back+in+Action",
+      "dc_wiki": ""
+    },
+    "gl-war-journal-tpbs": {
+      "title": "Green Lantern: War Journal Vol. 1: Contagion & Vol. 2: The Builder",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+War+Journal+Vol.+1",
+      "dc_wiki": ""
+    },
+    "gl-corps-2025-tpbs": {
+      "title": "GLC Vol. 1: New World Rising (#1–5) & GL/GLC: The Starbreaker Supremacy [2026] (GL #25–27, GLC #7–9)",
+      "format": "TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Starbreaker+Supremacy",
+      "dc_wiki": ""
+    },
+    "gl-absolute-hcs": {
+      "title": "Absolute Green Lantern Hardcovers (Vol. 1 & Vol. 2 HC)",
+      "format": "Hardcover",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Absolute+Green+Lantern",
+      "dc_wiki": ""
+    },
+    "gl-elseworlds-editions": {
+      "title": "Earth One Vol. 1–2 HCs; Tangent / GL: Dark; Legacy YA Trilogy; Elseworlds Omnibuses; Inter-Company Omnibuses; Lost Tales & Milestone Anthologies",
+      "format": "Omnibus / HC / TPB",
+      "owned": false,
+      "uncollected": false,
+      "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Earth+One",
+      "dc_wiki": ""
+    }
+  },
+  "issues": [
     {
-      "id": "ga-01",
+      "id": "gl-ga-01",
       "era": "Golden Age: Alan Scott (1940–1951)",
       "order": "1",
-      "title": "All-American Comics #16–30; Green Lantern (1941) #1",
+      "issue": "All-American Comics #16–30; Green Lantern (1941) #1",
+      "storyTitle": "Origin of Alan Scott; The Tale of the Timid Terrors!; Patsy the Punk Commits Haki Saki",
+      "arc": "Golden Age Debut & Early Solo Adventures",
       "authors": ["Bill Finger", "Martin Nodell (art)"],
       "characters": ["Alan Scott", "Doiby Dickles"],
-      "arcs": "Debut of Alan Scott, Doiby Dickles, and Gotham City setting",
       "read": false,
-      "notes": "Edited by Sheldon Mayer",
+      "notes": "Debut of Alan Scott, Doiby Dickles, and Gotham City setting; edited by Sheldon Mayer",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/All-American_Comics_Vol_1_16",
         "gcd": "https://www.comics.org/issue/855/",
-        "dcui": "https://www.dcuniverseinfinite.com/comics/series/all-american-comics-1939-1948/3d46d796-2883-4535-b28f-5876166d6f05"
+        "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Golden Age Green Lantern Archives Vol. 1",
-          "format": "Archive HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Golden+Age+Green+Lantern+Archives+Vol.+1"
-        }
-      ]
+      "editionIds": ["gl-ga-arch-1"]
     },
     {
-      "id": "ga-02",
+      "id": "gl-ga-02",
       "era": "Golden Age: Alan Scott (1940–1951)",
       "order": "2",
-      "title": "All-American Comics #31–38; Green Lantern #2–3",
+      "issue": "All-American Comics #31–38; Green Lantern #2–3",
+      "storyTitle": "Early Solo Adventures (1941–1942)",
+      "arc": "Golden Age Early Run",
       "authors": ["Bill Finger", "Martin Nodell (art)"],
       "characters": ["Alan Scott", "Doiby Dickles"],
-      "arcs": "Early solo adventures ('The Tale of the Timid Terrors!', 'Patsy the Punk Commits Haki Saki')",
       "read": false,
       "notes": "",
       "links": {
@@ -42,120 +374,71 @@
         "gcd": "https://www.comics.org/series/242/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Golden Age Green Lantern Archives Vol. 2",
-          "format": "Archive HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Golden+Age+Green+Lantern+Archives+Vol.+2"
-        }
-      ]
+      "editionIds": ["gl-ga-arch-2"]
     },
     {
-      "id": "ga-03",
+      "id": "gl-ga-03",
       "era": "Golden Age: Alan Scott (1940–1951)",
       "order": "3",
-      "title": "All-American Comics #39–102; Green Lantern #4–38 (1942–1949)",
+      "issue": "All-American Comics #39–102; Green Lantern #4–38 (1942–1949)",
+      "storyTitle": "Green Lantern Oath (GL #9); Debut of Solomon Grundy (All-American #61); Streak (GL #30)",
+      "arc": "Golden Age Main Run & Rogues",
       "authors": ["Alfred Bester", "Henry Kuttner", "Bill Finger"],
       "characters": ["Alan Scott", "Doiby Dickles", "Solomon Grundy", "Thorn", "Harlequin"],
-      "arcs": "Green Lantern Oath (GL #9); Solomon Grundy (All-American #61); Streak (GL #30); Rose Canton & Molly Mayne",
       "read": false,
-      "notes": "GL #9 oath dated to 1943/March 1944 across databases",
+      "notes": "GL #9 oath dated to 1943/March 1944 across databases; introduces Rose Canton & Molly Mayne",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_1_9",
         "gcd": "https://www.comics.org/series/242/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Mostly Uncollected (All-American #16 & Comic Cavalcade #6 sampled in anthologies)",
-          "format": "Uncollected",
-          "owned": false,
-          "uncollected": true,
-          "locg_url": ""
-        }
-      ]
+      "editionIds": ["gl-ga-uncollected"]
     },
     {
-      "id": "ga-04",
+      "id": "gl-ga-04",
       "era": "Golden Age: Alan Scott (1940–1951)",
       "order": "4 (Parallel)",
-      "title": "All-Star Comics #1–10, #24–57; Comic Cavalcade #1–29",
+      "issue": "All-Star Comics #1–10, #24–57; Comic Cavalcade #1–29",
+      "storyTitle": "Justice Society of America Team-Ups & Anthology Stories",
+      "arc": "Golden Age Parallel Team & Anthology Run",
       "authors": ["Gardner Fox", "Various"],
       "characters": ["Alan Scott", "Justice Society of America"],
-      "arcs": "JSA team-ups and Comic Cavalcade anthology stories",
       "read": false,
-      "notes": "",
+      "notes": "Comic Cavalcade mostly uncollected",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/All-Star_Comics_Vol_1_3",
         "gcd": "https://www.comics.org/series/204/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "All-Star Comics Archives (JSA issues partially collected)",
-          "format": "Archive HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=All-Star+Comics+Archives"
-        },
-        {
-          "title": "Comic Cavalcade (Mostly uncollected)",
-          "format": "Uncollected",
-          "owned": false,
-          "uncollected": true,
-          "locg_url": ""
-        }
-      ]
+      "editionIds": ["gl-jsa-arch", "gl-ga-uncollected"]
     },
     {
-      "id": "sa-01",
+      "id": "gl-sa-01",
       "era": "Silver Age: Hal Jordan and the Corps (1959–1969)",
       "order": "1",
-      "title": "Showcase #22–24; Green Lantern (Vol. 2) #1–18",
+      "issue": "Showcase #22–24; Green Lantern (Vol. 2) #1–18",
+      "storyTitle": "SOS Green Lantern!; Debuts of Tomar-Re (#6), Sinestro (#7) & Star Sapphire (#16)",
+      "arc": "Silver Age Origin & Founding of the Corps",
       "authors": ["John Broome", "Gil Kane (art)"],
       "characters": ["Hal Jordan", "Abin Sur", "Sinestro", "Tomar-Re", "Star Sapphire"],
-      "arcs": "Hal Jordan origin; Tomar-Re (#6); Sinestro (#7); Star Sapphire (#16)",
       "read": false,
-      "notes": "",
+      "notes": "Edited by Julius Schwartz",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Showcase_Vol_1_22",
         "gcd": "https://www.comics.org/issue/15295/",
-        "dcui": "https://www.dcuniverseinfinite.com/comics/series/green-lantern-1960-1986/53714d3d-3874-450b-8c78-731e75c9c430"
+        "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: The Silver Age Omnibus Vol. 1 (#1–35)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Omnibus+Vol.+1"
-        },
-        {
-          "title": "Green Lantern: The Silver Age Vol. 1–2 (#1–22)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Vol.+1"
-        },
-        {
-          "title": "Green Lantern Chronicles Vol. 1–4 (#1–20, Flash #131)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Chronicles"
-        }
-      ]
+      "editionIds": ["gl-sa-omni-1", "gl-sa-tpb"]
     },
     {
-      "id": "sa-02",
+      "id": "gl-sa-02",
       "era": "Silver Age: Hal Jordan and the Corps (1959–1969)",
       "order": "2",
-      "title": "Green Lantern #19–39; The Flash #143; The Brave and the Bold #59",
+      "issue": "Green Lantern #19–39; The Flash #143; The Brave and the Bold #59",
+      "storyTitle": "The Defeat of Green Lantern; Debut of Katma Tui (#30); Flash & Batman Crossovers",
+      "arc": "The Defeat of Green Lantern",
       "authors": ["John Broome"],
       "characters": ["Hal Jordan", "Katma Tui", "The Flash", "Batman"],
-      "arcs": "The Defeat of Green Lantern; Katma Tui (#30); Flash & Batman crossovers",
       "read": false,
       "notes": "",
       "links": {
@@ -163,88 +446,53 @@
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "DC Finest: Green Lantern – The Defeat of Green Lantern (GL #19–39, Flash #143, B&B #59)",
-          "format": "DC Finest TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+The+Defeat+of+Green+Lantern"
-        },
-        {
-          "title": "Green Lantern: The Silver Age Omnibus Vol. 1 (to #35)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Omnibus+Vol.+1"
-        }
-      ]
+      "editionIds": ["gl-dcf-defeat", "gl-sa-omni-1"]
     },
     {
-      "id": "sa-03",
+      "id": "gl-sa-03",
       "era": "Silver Age: Hal Jordan and the Corps (1959–1969)",
       "order": "3 (Side Revival)",
-      "title": "Justice League of America #21–22; Showcase #55",
+      "issue": "Justice League of America #21–22; Showcase #55",
+      "storyTitle": "Crisis on Earth-One! / Crisis on Earth-Two!; Solo Alan Scott Comeback",
+      "arc": "JSA and Alan Scott Silver Age Multiverse Revivals",
       "authors": ["Gardner Fox", "Various"],
       "characters": ["Alan Scott", "Hal Jordan", "Justice Society of America", "Justice League"],
-      "arcs": "JSA and Alan Scott Silver Age multiverse revivals (with Doctor Fate & Hourman)",
       "read": false,
-      "notes": "",
+      "notes": "Showcase #55 features Alan Scott with Doctor Fate and Hourman",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Justice_League_of_America_Vol_1_21",
         "gcd": "https://www.comics.org/issue/17835/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "JLA / DC Finest: Justice League of America",
-          "format": "DC Finest TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Justice+League+of+America"
-        }
-      ]
+      "editionIds": ["gl-jla-dcf"]
     },
     {
-      "id": "sa-04",
+      "id": "gl-sa-04",
       "era": "Silver Age: Hal Jordan and the Corps (1959–1969)",
       "order": "4",
-      "title": "Green Lantern #40–61; The Brave and the Bold #69",
+      "issue": "Green Lantern #40–61; The Brave and the Bold #69",
+      "storyTitle": "Prince Peril's Power Play (#45 Earth-1/Earth-2 Team-Up); Debut of Guy Gardner (#59)",
+      "arc": "Earth's Other Green Lantern",
       "authors": ["John Broome", "Gardner Fox"],
       "characters": ["Hal Jordan", "Alan Scott", "Guy Gardner"],
-      "arcs": "Earth's Other Green Lantern; 'Prince Peril's Power Play' (#45); Guy Gardner debut (#59)",
       "read": false,
-      "notes": "Guy Gardner created in #59",
+      "notes": "Comic Book Treasury character primer notes Englehart/Staton association with Guy Gardner's later development",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_2_40",
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "DC Finest: Green Lantern – Earth's Other Green Lantern (GL #40–61, B&B #69)",
-          "format": "DC Finest TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Earth%27s+Other+Green+Lantern"
-        },
-        {
-          "title": "Green Lantern: The Silver Age Omnibus Vol. 2 [2025 ed.] (#36–75)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Omnibus+Vol.+2"
-        }
-      ]
+      "editionIds": ["gl-dcf-other", "gl-sa-omni-2"]
     },
     {
-      "id": "sa-05",
+      "id": "gl-sa-05",
       "era": "Silver Age: Hal Jordan and the Corps (1959–1969)",
       "order": "5",
-      "title": "Green Lantern #62–75; The Flash #191",
+      "issue": "Green Lantern #62–75; The Flash #191",
+      "storyTitle": "Late Silver Age Issues (1968–1969)",
+      "arc": "Late Silver Age Bridge Toward Hard-Traveling Heroes",
       "authors": ["John Broome", "Mike Friedrich", "Dennis O'Neil"],
       "characters": ["Hal Jordan"],
-      "arcs": "Late Silver Age bridge toward Hard-Traveling Heroes",
       "read": false,
       "notes": "",
       "links": {
@@ -252,63 +500,35 @@
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: The Silver Age Omnibus Vol. 2 (#36–75)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+The+Silver+Age+Omnibus+Vol.+2"
-        },
-        {
-          "title": "DC Finest: Green Lantern – Hard-Traveling Heroes [2026] (#62–82, Flash #191, WF #201)",
-          "format": "DC Finest TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Hard-Traveling+Heroes"
-        }
-      ]
+      "editionIds": ["gl-sa-omni-2", "gl-dcf-hth"]
     },
     {
-      "id": "ba-01",
+      "id": "gl-ba-01",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "1",
-      "title": "Green Lantern #76–89; World's Finest #201, #210; The Brave and the Bold #100",
+      "issue": "Green Lantern #76–89; World's Finest #201, #210; The Brave and the Bold #100",
+      "storyTitle": "No Evil Shall Escape My Sight! (#76); Beware My Power! (#87 John Stewart Debut)",
+      "arc": "Hard-Traveling Heroes",
       "authors": ["Dennis O'Neil", "Neal Adams (art)"],
       "characters": ["Hal Jordan", "John Stewart", "Green Arrow"],
-      "arcs": "Hard-Traveling Heroes; John Stewart debuts (#87)",
       "read": false,
-      "notes": "Issue #88 omitted from Hard-Traveling Heroes Omnibus listing",
+      "notes": "Issue #88 is omitted from the Hard-Traveling Heroes Omnibus listing",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_2_76",
         "gcd": "https://www.comics.org/issue/23359/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern/Green Arrow: Hard-Traveling Heroes Omnibus (#76–87, #89–123 + tie-ins)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hard-Traveling+Heroes+Omnibus"
-        },
-        {
-          "title": "DC Finest: Green Lantern – Hard-Traveling Heroes [2026] (#62–82)",
-          "format": "DC Finest TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Hard-Traveling+Heroes"
-        }
-      ]
+      "editionIds": ["gl-hth-omni", "gl-dcf-hth"]
     },
     {
-      "id": "ba-02",
+      "id": "gl-ba-02",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "2",
-      "title": "The Flash #218–224, #226–228, #230–231, #233–234, #237–238, #240–246",
+      "issue": "The Flash #218–224, #226–228, #230–231, #233–234, #237–238, #240–246",
+      "storyTitle": "Green Lantern Backup Serials in The Flash",
+      "arc": "Solo Series Hiatus Backups",
       "authors": ["Dennis O'Neil", "Various"],
       "characters": ["Hal Jordan"],
-      "arcs": "Backup serials during solo series hiatus",
       "read": false,
       "notes": "",
       "links": {
@@ -316,31 +536,17 @@
         "gcd": "https://www.comics.org/series/1205/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern/Green Arrow: Hard-Traveling Heroes Omnibus",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hard-Traveling+Heroes+Omnibus"
-        },
-        {
-          "title": "Green Lantern/Green Arrow: Space Traveling Heroes (partial backups)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Space+Traveling+Heroes"
-        }
-      ]
+      "editionIds": ["gl-hth-omni", "gl-sth-tpb"]
     },
     {
-      "id": "ba-03",
+      "id": "gl-ba-03",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "3",
-      "title": "Green Lantern #90–123; DC Special Series #1; DC Super-Stars #17; World's Finest #255",
+      "issue": "Green Lantern #90–123; DC Special Series #1; DC Super-Stars #17; World's Finest #255",
+      "storyTitle": "Main Series Resumption & Cosmic Team-Ups",
+      "arc": "Space-Traveling Heroes",
       "authors": ["Dennis O'Neil", "Various"],
       "characters": ["Hal Jordan", "Green Arrow"],
-      "arcs": "Space-Traveling Heroes",
       "read": false,
       "notes": "",
       "links": {
@@ -348,56 +554,35 @@
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern/Green Arrow: Space Traveling Heroes (#90–106)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Space+Traveling+Heroes"
-        },
-        {
-          "title": "Green Lantern/Green Arrow: Hard-Traveling Heroes Omnibus (#90–123 + specials)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hard-Traveling+Heroes+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-sth-tpb", "gl-hth-omni"]
     },
     {
-      "id": "ba-04",
+      "id": "gl-ba-04",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "4",
-      "title": "Green Lantern #124–147",
+      "issue": "Green Lantern #124–147",
+      "storyTitle": "Uncollected Transitional Run (1980–1981)",
+      "arc": "Uncollected Bronze Age Gap",
       "authors": ["Unspecified in consulted guides"],
       "characters": ["Hal Jordan"],
-      "arcs": "Uncollected transitional run",
       "read": false,
-      "notes": "Major reprint gap between Hard-Traveling Heroes Omnibus and Sector 2814",
+      "notes": "Remains uncollected between Hard-Traveling Heroes Omnibus and Sector 2814",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_2_124",
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Uncollected",
-          "format": "Uncollected",
-          "owned": false,
-          "uncollected": true,
-          "locg_url": ""
-        }
-      ]
+      "editionIds": ["gl-ba-uncollected"]
     },
     {
-      "id": "ba-05",
+      "id": "gl-ba-05",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "5",
-      "title": "Tales of the Green Lantern Corps #1–3; GL backups (#148, 151–154, 161–162, 164–169, 171–173, 177, 179–183, 185, 187–190); TOTGLC Annual #1",
+      "issue": "Tales of the Green Lantern Corps #1–3; GL backups (#148, 151–154, 161–162, 164–169, 171–173, 177, 179–183, 185, 187–190); TOTGLC Annual #1",
+      "storyTitle": "Tales of the Green Lantern Corps & Backup Serials; Debut of Ch'p (#148)",
+      "arc": "Tales of the Green Lantern Corps",
       "authors": ["Paul Kupperberg", "Alan Moore", "Various"],
       "characters": ["Ch'p", "Green Lantern Corps"],
-      "arcs": "Tales of the Green Lantern Corps & backup serials; Ch'p debut (#148)",
       "read": false,
       "notes": "",
       "links": {
@@ -405,24 +590,17 @@
         "gcd": "https://www.comics.org/series/2556/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Tales of the Green Lantern Corps Vol. 1 & Vol. 2",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Tales+of+the+Green+Lantern+Corps"
-        }
-      ]
+      "editionIds": ["gl-totglc-tpb"]
     },
     {
-      "id": "ba-06",
+      "id": "gl-ba-06",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "6",
-      "title": "Green Lantern #172–176, #178–183, #185–200; Crisis on Infinite Earths #1–12",
+      "issue": "Green Lantern #172–176, #178–183, #185–200; Crisis on Infinite Earths #1–12",
+      "storyTitle": "John Stewart Becomes Earth's GL (#182); Guy Gardner Returns (#183); Mogo Doesn't Socialize (#188); Crisis Tie-Ins (#194–198)",
+      "arc": "Sector 2814 & Crisis on Infinite Earths",
       "authors": ["Len Wein", "Alan Moore", "Marv Wolfman (COIE)"],
       "characters": ["John Stewart", "Hal Jordan", "Guy Gardner", "Mogo"],
-      "arcs": "Sector 2814; John Stewart becomes Earth's GL (#182); Guy Gardner returns (#183); Mogo debuts (#188); COIE (#194–198)",
       "read": false,
       "notes": "#184 is a reprint of #59; guides vary on Sector 2814 Vol. 2 ending at #189 vs. #193",
       "links": {
@@ -430,31 +608,17 @@
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: Sector 2814 Vol. 1–3",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Sector+2814"
-        },
-        {
-          "title": "Crisis on Infinite Earths Companion Deluxe Vol. 1 (#194–198) & DC Finest: COIE Part 2 (#195–196)",
-          "format": "HC / DC Finest",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Crisis+on+Infinite+Earths+Companion+Deluxe"
-        }
-      ]
+      "editionIds": ["gl-sec2814-tpb"]
     },
     {
-      "id": "ba-07",
+      "id": "gl-ba-07",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "7",
-      "title": "Green Lantern #201–205; Green Lantern Corps #206–219; TOTGLC Annual #2; GL Annual #3; Secret Origins #7; Action Comics #589; Legends (GLC #207–208)",
+      "issue": "Green Lantern #201–205; Green Lantern Corps #206–219; TOTGLC Annual #2; GL Annual #3; Secret Origins #7; Action Comics #589; Legends (GLC #207–208)",
+      "storyTitle": "Debut of Kilowog (#201); Debut of Sodam Yat (Annual #2); Retitled Green Lantern Corps (#206)",
+      "arc": "Setting Up Shop & Legends Tie-Ins",
       "authors": ["Steve Englehart", "Alan Moore (Annual #2)"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kilowog", "Sodam Yat"],
-      "arcs": "Kilowog debut (#201); Sodam Yat debut (Annual #2); series retitled Green Lantern Corps (#206); Legends tie-ins (#207–208)",
       "read": false,
       "notes": "",
       "links": {
@@ -462,81 +626,53 @@
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "DC Finest: Green Lantern – Setting Up Shop (Sept 29, 2026)",
-          "format": "DC Finest TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Finest+Setting+Up+Shop"
-        }
-      ]
+      "editionIds": ["gl-dcf-setup"]
     },
     {
-      "id": "ba-08",
+      "id": "gl-ba-08",
       "era": "Bronze Age: Hard-Traveling Heroes and Tales of the Corps (1970–1988)",
       "order": "8",
-      "title": "Green Lantern Corps #220–224",
+      "issue": "Green Lantern Corps #220–224",
+      "storyTitle": "End of Vol. 2 Ongoing Run (1988)",
+      "arc": "End of Green Lantern Corps Vol. 2",
       "authors": ["Steve Englehart"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kilowog"],
-      "arcs": "End of Vol. 2 ongoing run",
       "read": false,
-      "notes": "",
+      "notes": "Remains uncollected",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Corps_Vol_1_220",
         "gcd": "https://www.comics.org/series/1372/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Uncollected",
-          "format": "Uncollected",
-          "owned": false,
-          "uncollected": true,
-          "locg_url": ""
-        }
-      ]
+      "editionIds": ["gl-ba-uncollected"]
     },
     {
-      "id": "kr-01",
+      "id": "gl-kr-01",
       "era": "Fall of Hal Jordan and Rise of Kyle Rayner (1989–2004)",
       "order": "1",
-      "title": "Green Lantern (1990) #1–47; GL Corps Quarterly #1–8; GL: Mosaic #1–18; Ganthet's Tale",
+      "issue": "Green Lantern (1990) #1–47; GL Corps Quarterly #1–8; GL: Mosaic #1–18; Ganthet's Tale",
+      "storyTitle": "Alan Scott Origin Retcon (#19); John Stewart on Mosaic (#1–18); Ganthet's Tale",
+      "arc": "Fall of Hal Jordan Era",
       "authors": ["Gerard Jones", "Various"],
       "characters": ["Hal Jordan", "John Stewart", "Alan Scott", "Guy Gardner"],
-      "arcs": "'Fall of Hal Jordan' era; Alan Scott origin retcon (#19); John Stewart in Mosaic",
       "read": false,
-      "notes": "GL Vol. 3 #9–26 remain uncollected",
+      "notes": "Green Lantern Vol. 3 #9–26 remain uncollected",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_3_1",
         "gcd": "https://www.comics.org/series/4126/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "GL Vol. 3 #9–26 & Mosaic #1–17 (Uncollected; Mosaic #18 in John Stewart: 50 Years)",
-          "format": "Uncollected / Partial",
-          "owned": false,
-          "uncollected": true,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=John+Stewart+50+Years"
-        },
-        {
-          "title": "Flash & Green Lantern: Faster Friends",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Flash+Green+Lantern+Faster+Friends"
-        }
-      ]
+      "editionIds": ["gl-90s-uncollected"]
     },
     {
-      "id": "kr-02",
+      "id": "gl-kr-02",
       "era": "Fall of Hal Jordan and Rise of Kyle Rayner (1989–2004)",
       "order": "2",
-      "title": "Green Lantern #0, #48–65; R.E.B.E.L.S. '94 #1; New Titans #116–117, #124–125; Guy Gardner: Warrior #27–28; Darkstars #25–28, #34; Damage #16; GL Annual #3",
+      "issue": "Green Lantern #0, #48–65; R.E.B.E.L.S. '94 #1; New Titans #116–117, #124–125; Guy Gardner: Warrior #27–28; Darkstars #25–28, #34; Damage #16; GL Annual #3",
+      "storyTitle": "Emerald Twilight (#48–50); 'Rescue' (#65); 'Strangers in a Strange Land' (Darkstars #34); 'Elements of Power' (Damage #16)",
+      "arc": "Rise of Kyle Rayner & Zero Hour",
       "authors": ["Ron Marz", "Darryl Banks (art)"],
       "characters": ["Kyle Rayner", "Hal Jordan", "Guy Gardner", "Ganthet"],
-      "arcs": "Emerald Twilight & Rise of Kyle Rayner; Zero Hour; 'Rescue' (#65); 'Strangers in a Strange Land' (Darkstars #34); 'Elements of Power' (Damage #16)",
       "read": false,
       "notes": "",
       "links": {
@@ -544,56 +680,35 @@
         "gcd": "https://www.comics.org/issue/54565/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: Kyle Rayner Rising Compendium (GL #0, #48–65 + tie-ins)",
-          "format": "Compendium TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Kyle+Rayner+Rising+Compendium"
-        },
-        {
-          "title": "Green Lantern: Kyle Rayner Vol. 1",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Kyle+Rayner+Vol.+1"
-        }
-      ]
+      "editionIds": ["gl-kyle-comp"]
     },
     {
-      "id": "kr-03",
+      "id": "gl-kr-03",
       "era": "Fall of Hal Jordan and Rise of Kyle Rayner (1989–2004)",
       "order": "3",
-      "title": "Showcase '95 #7–8; The Final Night #1–4, Preview, Parallax: Emerald Night #1, GL #81",
-      "authors": ["Ron Marz", "Karl Kesel", "Various"],
+      "issue": "Showcase '95 #7–8; The Final Night #1–4, Preview, Parallax: Emerald Night #1, GL #81",
+      "storyTitle": "Hal Jordan's Sacrifice & Funeral (GL #81)",
+      "arc": "The Final Night",
+      "authors": ["Ron Marz", "Various"],
       "characters": ["Hal Jordan", "Kyle Rayner"],
-      "arcs": "The Final Night (Hal Jordan's sacrifice in GL #81)",
       "read": false,
-      "notes": "Showcase '95 #7–8 stories included in GLC by Tomasi Omnibus Vol. 1",
+      "notes": "",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_3_81",
         "gcd": "https://www.comics.org/series/5678/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "The Final Night TPB",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=The+Final+Night"
-        }
-      ]
+      "editionIds": ["gl-final-night"]
     },
     {
-      "id": "kr-04",
+      "id": "gl-kr-04",
       "era": "Fall of Hal Jordan and Rise of Kyle Rayner (1989–2004)",
       "order": "4",
-      "title": "Emerald Knights arc; GL #1,000,000; Martian Manhunter #1,000,000; GL: The New Corps #1–2; Day of Judgment #1–5 & Secret Files",
-      "authors": ["Ron Marz", "Geoff Johns (Day of Judgment)", "Various"],
+      "issue": "Emerald Knights arc; GL #1,000,000; Martian Manhunter #1,000,000; GL: The New Corps #1–2; Day of Judgment #1–5 & Secret Files",
+      "storyTitle": "Emerald Knights; DC One Million; Hal Jordan Becomes The Spectre",
+      "arc": "Emerald Knights, DC One Million & Day of Judgment",
+      "authors": ["Ron Marz", "Various"],
       "characters": ["Kyle Rayner", "Hal Jordan (The Spectre)"],
-      "arcs": "Emerald Knights; DC One Million; GL: The New Corps; Day of Judgment (Hal becomes The Spectre)",
       "read": false,
       "notes": "",
       "links": {
@@ -601,31 +716,17 @@
         "gcd": "https://www.comics.org/series/7059/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: Emerald Knights",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Emerald+Knights"
-        },
-        {
-          "title": "Day of Judgment TPB",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Day+of+Judgment"
-        }
-      ]
+      "editionIds": ["gl-em-knights"]
     },
     {
-      "id": "me-01",
+      "id": "gl-me-01",
       "era": "Modern Era: Geoff Johns and Peter J. Tomasi (2004–2013)",
       "order": "1",
-      "title": "GL: Rebirth #1–6; Secret Files 2005 #1; GL (2005) #1–20; GLC: Recharge #1–5; GLC (2006) #1–13; Ion #1–12 (opt.)",
+      "issue": "GL: Rebirth #1–6; Secret Files 2005 #1; GL (2005) #1–20; GLC: Recharge #1–5; GLC (2006) #1–13; Ion #1–12 (opt.)",
+      "storyTitle": "Rebirth; No Fear (#1–6); Recharge (#1–5); Revenge of the GLs (#7–13); To Be a Lantern (GLC #1–6); Wanted – Hal Jordan (#14–20); The Dark Side of Green (GLC #7–13)",
+      "arc": "Act I — Rebirth & Prelude (2004–2007)",
       "authors": ["Geoff Johns", "Dave Gibbons", "Ron Marz (Ion)"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kyle Rayner", "Kilowog"],
-      "arcs": "Act I — Rebirth, No Fear (#1–6), Recharge (#1–5), Revenge of the GLs (#7–13), To Be a Lantern (GLC #1–6), Wanted – Hal Jordan (#14–20), The Dark Side of Green (GLC #7–13)",
       "read": false,
       "notes": "Optional parallel reads: Rann-Thanagar War, Infinite Crisis, Ion #1–12",
       "links": {
@@ -633,84 +734,35 @@
         "gcd": "https://www.comics.org/series/12316/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Geoff Johns Omnibus Vol. 1",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+1"
-        },
-        {
-          "title": "Green Lantern Corps by Tomasi & Gleason Omnibus Vol. 1",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+by+Peter+J.+Tomasi+Omnibus+Vol.+1"
-        },
-        {
-          "title": "Green Lantern Compendium One: Rebirth",
-          "format": "Compendium TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Compendium+One+Rebirth"
-        },
-        {
-          "title": "Green Lantern by Geoff Johns Book 1 & Book 2",
-          "format": "Thick TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Book+1"
-        }
-      ]
+      "editionIds": ["gl-johns-omni-1", "gl-tomasi-omni-1", "gl-johns-comp"]
     },
     {
-      "id": "me-02",
+      "id": "gl-me-02",
       "era": "Modern Era: Geoff Johns and Peter J. Tomasi (2004–2013)",
       "order": "2",
-      "title": "GL: Sinestro Corps Special #1; GL (2005) #21–25; GLC (2006) #14–19; Tales of the Sinestro Corps: Superman-Prime #1; GL/Sinestro Corps Secret Files #1",
+      "issue": "GL: Sinestro Corps Special #1; GL (2005) #21–25; GLC (2006) #14–19; Tales of the Sinestro Corps: Superman-Prime #1; GL/Sinestro Corps Secret Files #1",
+      "storyTitle": "Sinestro Corps Special #1 & Interleaved GL #21–25 / GLC #14–19 Chapters",
+      "arc": "The Sinestro Corps War (2007)",
       "authors": ["Geoff Johns", "Peter J. Tomasi", "Patrick Gleason (art)"],
       "characters": ["Hal Jordan", "Sinestro", "Kyle Rayner", "John Stewart", "Guy Gardner", "Sodam Yat"],
-      "arcs": "The Sinestro Corps War (2007)",
       "read": false,
-      "notes": "Interleave GL #21–25 and GLC #14–19",
+      "notes": "",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Sinestro_Corps_War",
         "gcd": "https://www.comics.org/series/13792/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Geoff Johns Omnibus Vol. 1",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+1"
-        },
-        {
-          "title": "Green Lantern Compendium Two: Sinestro Corps War [2026]",
-          "format": "Compendium TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Compendium+Two+Sinestro+Corps+War"
-        },
-        {
-          "title": "Green Lantern by Geoff Johns Book 3",
-          "format": "Thick TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Book+3"
-        }
-      ]
+      "editionIds": ["gl-johns-omni-1", "gl-tomasi-omni-1", "gl-johns-comp"]
     },
     {
-      "id": "me-03",
+      "id": "gl-me-03",
       "era": "Modern Era: Geoff Johns and Peter J. Tomasi (2004–2013)",
       "order": "3",
-      "title": "GLC #20–26; GL #26–35; Final Crisis: Rage of the Red Lanterns #1; GL #36–42; GLC #27–38",
+      "issue": "GLC #20–26; GL #26–35; Final Crisis: Rage of the Red Lanterns #1; GL #36–42; GLC #27–38",
+      "storyTitle": "Ring Quest (GLC #20–26); Alpha Lanterns (#26–28); Secret Origin (#29–35); Rage of the Red Lanterns (#36–38); Sins of the Star Sapphire (GLC #27–32); Agent Orange (#39–42); Emerald Eclipse (GLC #33–38)",
+      "arc": "Act II — The War of Light & Secret Origin (2007–2009)",
       "authors": ["Geoff Johns", "Peter J. Tomasi"],
       "characters": ["Hal Jordan", "Atrocitus", "Larfleeze", "Saint Walker", "Star Sapphire", "Sinestro"],
-      "arcs": "Act II — Ring Quest (GLC #20–26), The Alpha Lanterns (#26–28), Secret Origin (#29–35), Rage of the Red Lanterns (#36–38), Sins of the Star Sapphire (GLC #27–32), Agent Orange (#39–42), Emerald Eclipse (GLC #33–38)",
       "read": false,
       "notes": "",
       "links": {
@@ -718,70 +770,35 @@
         "gcd": "https://www.comics.org/series/13792/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Geoff Johns Omnibus Vol. 2",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+2"
-        },
-        {
-          "title": "Green Lantern Corps by Tomasi & Gleason Omnibus Vol. 1",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+by+Peter+J.+Tomasi+Omnibus+Vol.+1"
-        },
-        {
-          "title": "Green Lantern by Geoff Johns Book 4",
-          "format": "Thick TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Book+4"
-        }
-      ]
+      "editionIds": ["gl-johns-omni-2", "gl-tomasi-omni-1", "gl-johns-comp"]
     },
     {
-      "id": "me-04",
+      "id": "gl-me-04",
       "era": "Modern Era: Geoff Johns and Peter J. Tomasi (2004–2013)",
       "order": "4",
-      "title": "Blackest Night #0–8; GL #43–52; GLC #39–47; Tales of the Corps #1–3; Untold Tales #1; DC Universe #0",
-      "authors": ["Geoff Johns", "Peter J. Tomasi", "Ivan Reis (art)"],
-      "characters": ["Hal Jordan", "Black Hand", "Nekron", "John Stewart", "Guy Gardner", "Kyle Rayner", "Mera"],
-      "arcs": "Act III — Blackest Night (2009–2010) + optional miniseries tie-ins",
+      "issue": "Blackest Night #0–8; GL #43–52; GLC #39–47; Tales of the Corps #1–3; Untold Tales #1; DC Universe #0",
+      "storyTitle": "Interleaved Blackest Night #0–8, GL #43–51 & GLC #39–47 Event Sequence",
+      "arc": "Act III — Blackest Night (2009–2010)",
+      "authors": ["Geoff Johns", "Peter J. Tomasi"],
+      "characters": ["Hal Jordan", "Black Hand", "Nekron", "John Stewart", "Guy Gardner", "Kyle Rayner"],
       "read": false,
-      "notes": "Follow issue-by-issue interleave: BN #0–1 -> GL #44 -> BN #2 -> GL #45 -> BN #3 -> GL #46–47 -> BN #4 -> GL #48 -> BN #5 -> GL #49 -> GLC #45 -> BN #6 -> GL #50–51 -> BN #7–8",
+      "notes": "Optional tie-ins: Adventure Comics #4–5, #7, Blackest Night miniseries & Rise of the Black Lantern one-shots",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Blackest_Night",
         "gcd": "https://www.comics.org/series/41248/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Geoff Johns Omnibus Vol. 2",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+2"
-        },
-        {
-          "title": "Blackest Night Omnibus / Compendium [2027]",
-          "format": "Omnibus / Compendium",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Blackest+Night+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-johns-omni-2", "gl-tomasi-omni-2", "gl-johns-comp"]
     },
     {
-      "id": "me-05",
+      "id": "gl-me-05",
       "era": "Modern Era: Geoff Johns and Peter J. Tomasi (2004–2013)",
       "order": "5",
-      "title": "Brightest Day #0–24; GL #53–67; GLC #48–63; Emerald Warriors #1–13; War of the GLs: Aftermath #1–2; Flashpoint: Abin Sur #1–3",
-      "authors": ["Geoff Johns", "Peter J. Tomasi", "Tony Bedard"],
+      "issue": "Brightest Day #0–24; GL #53–67; GLC #48–63; Emerald Warriors #1–13; War of the GLs: Aftermath #1–2; Flashpoint: Abin Sur #1–3",
+      "storyTitle": "Brightest Day; Revolt of the Alpha Lanterns; The Weaponer; War of the Green Lanterns (#63–67, GLC #58–60, EW #8–10)",
+      "arc": "Act IV — Brightest Day & War of the Green Lanterns (2010–2011)",
+      "authors": ["Geoff Johns", "Peter J. Tomasi"],
       "characters": ["Hal Jordan", "Guy Gardner", "John Stewart", "Kyle Rayner", "Ganthet", "Krona"],
-      "arcs": "Act IV — Brightest Day, Revolt of the Alpha Lanterns, The Weaponer, War of the Green Lanterns (#63–67, GLC #58–60, EW #8–10)",
       "read": false,
       "notes": "Includes Larfleeze Christmas Special #1 & GL/Plastic Man Special #1",
       "links": {
@@ -789,63 +806,35 @@
         "gcd": "https://www.comics.org/series/13792/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Geoff Johns Omnibus Vol. 3",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+3"
-        },
-        {
-          "title": "Green Lantern Corps by Tomasi & Gleason Omnibus Vol. 2",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+by+Peter+J.+Tomasi+Omnibus+Vol.+2"
-        }
-      ]
+      "editionIds": ["gl-johns-omni-3", "gl-tomasi-omni-2"]
     },
     {
-      "id": "me-06",
+      "id": "gl-me-06",
       "era": "Modern Era: Geoff Johns and Peter J. Tomasi (2004–2013)",
       "order": "6",
-      "title": "Justice League (2011) #1–6; GL (2011) #0–20, Annual #1; GLC (2011) #0–20, Annual #1; New Guardians #0–20; Red Lanterns #1–20",
-      "authors": ["Geoff Johns", "Peter J. Tomasi", "Tony Bedard", "Peter Milligan"],
+      "issue": "Justice League (2011) #1–6; GL (2011) #0–20, Annual #1; GLC (2011) #0–20, Annual #1; New Guardians #0–20; Red Lanterns #1–20",
+      "storyTitle": "Sinestro; Revenge of Black Hand; Rise of the Third Army (#13–16); Wrath of the First Lantern (#17–20)",
+      "arc": "New 52 Finale for Johns & Tomasi (2011–2013)",
+      "authors": ["Geoff Johns", "Peter J. Tomasi"],
       "characters": ["Hal Jordan", "Sinestro", "John Stewart", "Guy Gardner", "Kyle Rayner", "Atrocitus", "Simon Baz"],
-      "arcs": "New 52 Finale — Sinestro, Revenge of Black Hand, Rise of the Third Army (#13–16), Wrath of the First Lantern (#17–20)",
       "read": false,
-      "notes": "Direct continuation of pre-Flashpoint GL continuity; Simon Baz debuts in GL (2011) #0",
+      "notes": "Direct continuation of pre-Flashpoint GL continuity without rebooting the story",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Wrath_of_the_First_Lantern",
         "gcd": "https://www.comics.org/series/61108/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Geoff Johns Omnibus Vol. 3",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Geoff+Johns+Omnibus+Vol.+3"
-        },
-        {
-          "title": "Green Lantern Corps by Tomasi & Gleason Omnibus Vol. 2",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+by+Peter+J.+Tomasi+Omnibus+Vol.+2"
-        }
-      ]
+      "editionIds": ["gl-johns-omni-3", "gl-tomasi-omni-2", "gl-red-omni"]
     },
     {
-      "id": "rv-01",
+      "id": "gl-rv-01",
       "era": "Late New 52 and DC You: The Robert Venditti Era (2013–2016)",
       "order": "1",
-      "title": "GL (2011) #21–34, #23.1: Relic, Annual #2; GLC #21–34, Annual #2; New Guardians #23–24; Red Lanterns #24, #28; Supergirl #31",
-      "authors": ["Robert Venditti", "Van Jensen", "Charles Soule"],
+      "issue": "GL (2011) #21–34, #23.1: Relic, Annual #2; GLC #21–34, Annual #2; New Guardians #23–24; Red Lanterns #24, #28; Supergirl #31",
+      "storyTitle": "Dark Days (#21–26); Lights Out (#24 crossover); Uprising (GLC #31–33 & GL); Red Daughter of Krypton",
+      "arc": "Dark Days, Lights Out & Uprising",
+      "authors": ["Robert Venditti"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kyle Rayner", "Relic"],
-      "arcs": "Dark Days, Lights Out (#24 crossover), Uprising (GLC #31–33 & GL), Red Daughter of Krypton",
       "read": false,
       "notes": "",
       "links": {
@@ -853,31 +842,17 @@
         "gcd": "https://www.comics.org/series/61108/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Robert Venditti Omnibus Vol. 1",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Robert+Venditti+Omnibus+Vol.+1"
-        },
-        {
-          "title": "Red Lanterns: The New 52 Omnibus (#0–40 + crossovers)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Red+Lanterns+The+New+52+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-venditti-omni-1", "gl-red-omni"]
     },
     {
-      "id": "rv-02",
+      "id": "gl-rv-02",
       "era": "Late New 52 and DC You: The Robert Venditti Era (2013–2016)",
       "order": "2",
-      "title": "GL/New Gods: Godhead #1; GL #35–40; GLC #35–40; New Guardians #35–37; Red Lanterns #35–37; Sinestro #6–8; GL Annual #3",
-      "authors": ["Robert Venditti", "Cullen Bunn", "Justin Jordan"],
+      "issue": "GL/New Gods: Godhead #1; GL #35–40; GLC #35–40; New Guardians #35–37; Red Lanterns #35–37; Sinestro #6–8; GL Annual #3",
+      "storyTitle": "Five-Title New Gods Clash (Godhead) & The Life Equation (#35–40)",
+      "arc": "Godhead & The Life Equation",
+      "authors": ["Robert Venditti"],
       "characters": ["Hal Jordan", "Highfather", "Sinestro", "Kyle Rayner", "John Stewart"],
-      "arcs": "Godhead (New Gods crossover) & The Life Equation (#35–40)",
       "read": false,
       "notes": "",
       "links": {
@@ -885,88 +860,53 @@
         "gcd": "https://www.comics.org/series/61108/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Robert Venditti Omnibus Vol. 2",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Robert+Venditti+Omnibus+Vol.+2"
-        }
-      ]
+      "editionIds": ["gl-venditti-omni-2", "gl-red-omni"]
     },
     {
-      "id": "rv-03",
+      "id": "gl-rv-03",
       "era": "Late New 52 and DC You: The Robert Venditti Era (2013–2016)",
       "order": "3",
-      "title": "GL #41–52; Sinestro #12–15 (Lobo #10–11, Annual #1); GL: Lost Army #1–6; GLC: Edge of Oblivion #1–6; The Omega Men #1–12",
-      "authors": ["Robert Venditti", "Cullen Bunn", "Tom King (Omega Men)"],
+      "issue": "GL #41–52; Sinestro #12–15 (Lobo #10–11, Annual #1); GL: Lost Army #1–6; GLC: Edge of Oblivion #1–6; The Omega Men #1–12",
+      "storyTitle": "Renegade Hal Jordan (#41–52); Lost Army (#1–6); Edge of Oblivion (#1–6); The Omega Men",
+      "arc": "DC You & Pre-Rebirth Bridge",
+      "authors": ["Robert Venditti", "Tom King (Omega Men)"],
       "characters": ["Hal Jordan", "John Stewart", "Sinestro", "Kyle Rayner"],
-      "arcs": "DC You Renegade Hal Jordan (#41–52), Lost Army, Edge of Oblivion, The Omega Men",
       "read": false,
-      "notes": "Lost Army & Edge of Oblivion bridge into Hal Jordan & the GLC Rebirth",
+      "notes": "",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern:_Lost_Army_Vol_1_1",
         "gcd": "https://www.comics.org/series/89622/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern by Robert Venditti Omnibus Vol. 2 (GL #35–52)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+by+Robert+Venditti+Omnibus+Vol.+2"
-        },
-        {
-          "title": "Hal Jordan & the GLC by Venditti Omnibus Vol. 1 [2026] (Lost Army + Edge of Oblivion + HJ&GLC #1–21)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hal+Jordan+and+the+Green+Lantern+Corps+Omnibus+Vol.+1"
-        }
-      ]
+      "editionIds": ["gl-venditti-omni-2", "gl-hjglc-omni-1"]
     },
     {
-      "id": "rb-01",
+      "id": "gl-rb-01",
       "era": "DC Rebirth, Grant Morrison, and Future State (2016–2021)",
       "order": "1 (Alternating)",
-      "title": "Hal Jordan and the Green Lantern Corps: Rebirth #1, #1–50; Dark Nights: Metal tie-ins",
+      "issue": "Hal Jordan and the Green Lantern Corps: Rebirth #1, #1–50; Dark Nights: Metal tie-ins",
+      "storyTitle": "Sinestro's Law (#1–6); Vols. 2–3 (#7–21); Fracture (#22–29); Twilight of the Guardians (#30–36); Zod's Will (#37–41); Darkstars Rising (#42–50)",
+      "arc": "Hal Jordan and the Green Lantern Corps (Rebirth)",
       "authors": ["Robert Venditti"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kyle Rayner", "Sinestro", "Zod"],
-      "arcs": "Sinestro's Law (#1–6), Vols. 2–3 (#7–21), Fracture (#22–29), Twilight of the Guardians (#30–36), Zod's Will (#37–41), Darkstars Rising (#42–50)",
       "read": false,
-      "notes": "Alternates with Green Lanterns (2016); includes Metal 'Bats Out of Hell' (#32)",
+      "notes": "Includes Metal 'Bats Out of Hell' (#32)",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Hal_Jordan_and_the_Green_Lantern_Corps_Vol_1_1",
         "gcd": "https://www.comics.org/series/99907/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Hal Jordan & the GLC Vol. 1–7",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hal+Jordan+and+the+Green+Lantern+Corps+Vol.+1"
-        },
-        {
-          "title": "Hal Jordan & the GLC by Venditti Omnibus Vol. 1 [2026] (#1–21) & Vol. 2 [2027] (#22–50)",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Hal+Jordan+and+the+Green+Lantern+Corps+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-hjglc-tpbs", "gl-hjglc-omni-1"]
     },
     {
-      "id": "rb-02",
+      "id": "gl-rb-02",
       "era": "DC Rebirth, Grant Morrison, and Future State (2016–2021)",
       "order": "2 (Alternating)",
-      "title": "Green Lanterns (2016) #1–57, Annual #1",
-      "authors": ["Sam Humphries", "Tim Seeley", "Dan Jurgens"],
+      "issue": "Green Lanterns (2016) #1–57, Annual #1",
+      "storyTitle": "Rage Planet; Polarity (#15–21); The First Ring (#22–26); Out of Time (#27–32); A World of Our Own (#33–39); Superhuman Trafficking (#40–43, Annual #1); Ghosts of the Past (#44–49); Evil's Might (#50–57)",
+      "arc": "Green Lanterns (Simon Baz & Jessica Cruz)",
+      "authors": ["Sam Humphries", "Tim Seeley"],
       "characters": ["Simon Baz", "Jessica Cruz"],
-      "arcs": "Rage Planet, Vol. 2, Polarity (#15–21), The First Ring (#22–26), Out of Time (#27–32), A World of Our Own (#33–39), Superhuman Trafficking (#40–43, Annual #1), Ghosts of the Past (#44–49), Evil's Might (#50–57)",
       "read": false,
       "notes": "",
       "links": {
@@ -974,24 +914,17 @@
         "gcd": "https://www.comics.org/series/99906/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lanterns Vol. 1–9",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lanterns+Vol.+1+Rage+Planet"
-        }
-      ]
+      "editionIds": ["gl-green-lanterns-tpbs"]
     },
     {
-      "id": "rb-03",
+      "id": "gl-rb-03",
       "era": "DC Rebirth, Grant Morrison, and Future State (2016–2021)",
       "order": "3",
-      "title": "The Green Lantern #1–12, Annual #1; Green Lantern: Blackstars #1–3; The Green Lantern Season Two #1–12",
+      "issue": "The Green Lantern #1–12, Annual #1; Green Lantern: Blackstars #1–3; The Green Lantern Season Two #1–12",
+      "storyTitle": "Intergalactic Lawman (#1–6); The Day the Stars Fell (#7–12, Annual #1); Blackstars (#1–3); Season Two (#1–6); Ultrawar (#7–12)",
+      "arc": "The Green Lantern (Seasons 1 & 2)",
       "authors": ["Grant Morrison", "Liam Sharp (art)"],
       "characters": ["Hal Jordan"],
-      "arcs": "Intergalactic Lawman (#1–6), The Day the Stars Fell (#7–12, Annual #1), Blackstars (#1–3), Season Two (#1–6), Ultrawar (#7–12)",
       "read": false,
       "notes": "Self-contained cosmic police procedural",
       "links": {
@@ -999,95 +932,53 @@
         "gcd": "https://www.comics.org/series/133037/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "The Green Lantern / Blackstars / Season Two (4 TPBs)",
-          "format": "TPB / HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=The+Green+Lantern+Intergalactic+Lawman"
-        },
-        {
-          "title": "The Green Lantern by Grant Morrison and Liam Sharp Omnibus [2027]",
-          "format": "Omnibus HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=The+Green+Lantern+by+Grant+Morrison+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-morrison-omni"]
     },
     {
-      "id": "rb-04",
+      "id": "gl-rb-04",
       "era": "DC Rebirth, Grant Morrison, and Future State (2016–2021)",
       "order": "4 (Parallel)",
-      "title": "Young Justice #1–20; Far Sector #1–12; GL 80th Anniversary #1; Death Metal tie-ins; Future State: Green Lantern #1–2",
+      "issue": "Young Justice #1–20; Far Sector #1–12; GL 80th Anniversary #1; Death Metal tie-ins; Future State: Green Lantern #1–2",
+      "storyTitle": "Debut of Jo Mullein (Far Sector) & Keli Quintela (Young Justice); Alan Scott Return; Future State",
+      "arc": "Parallel New Lanterns & Future State",
       "authors": ["Brian Michael Bendis (YJ)", "N.K. Jemisin (Far Sector)", "Geoffrey Thorne (Future State)"],
       "characters": ["Sojourner 'Jo' Mullein", "Keli Quintela (Teen Lantern)", "Alan Scott", "John Stewart"],
-      "arcs": "Debut of Jo Mullein (Far Sector) & Keli Quintela (Young Justice); Alan Scott setup in 80th Anniversary; Future State",
       "read": false,
-      "notes": "Far Sector dated 2019–2021 across guides",
+      "notes": "Far Sector dated 2019 in Reddit guide and 2021 in Comic Book Treasury",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Far_Sector_Vol_1_1",
         "gcd": "https://www.comics.org/series/149080/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Far Sector Deluxe Edition / DC Compact Comics Edition",
-          "format": "Deluxe HC / Compact TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Far+Sector"
-        },
-        {
-          "title": "Young Justice Vol. 1–3 & Future State: Justice League",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Future+State+Justice+League"
-        }
-      ]
+      "editionIds": ["gl-far-sector"]
     },
     {
-      "id": "if-01",
+      "id": "gl-if-01",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "1",
-      "title": "Infinite Frontier #0–1; Green Lantern (2021) #1–12, 2021 Annual #1; Dark Crisis: Worlds Without a Justice League – GL #1",
+      "issue": "Infinite Frontier #0–1; Green Lantern (2021) #1–12, 2021 Annual #1; Dark Crisis: Worlds Without a Justice League – GL #1",
+      "storyTitle": "Invictus (#1–4) & Horatius (#7–12, Annual #1); Alan Scott Comes Out (Infinite Frontier #0–1)",
+      "arc": "Infinite Frontier: John Stewart",
       "authors": ["Geoffrey Thorne"],
       "characters": ["John Stewart", "Sojourner 'Jo' Mullein", "Alan Scott", "Hal Jordan"],
-      "arcs": "Invictus (#1–4), Horatius (#7–12, Annual #1); Alan Scott comes out in Infinite Frontier #0–1",
       "read": false,
-      "notes": "Guides omit #5–6 from Vol. 1/Vol. 2 trade breakdowns",
+      "notes": "Volume breakdowns omit #5–6 between Invictus and Horatius",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_6_1",
         "gcd": "https://www.comics.org/series/169445/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern Vol. 1: Invictus (Future State: GL #1–2, GL #1–4)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+1+Invictus"
-        },
-        {
-          "title": "Green Lantern Vol. 2: Horatius (#7–12, 2021 Annual #1)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+2+Horatius"
-        }
-      ]
+      "editionIds": ["gl-thorne-tpbs"]
     },
     {
-      "id": "if-02",
+      "id": "gl-if-02",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "2",
-      "title": "Alan Scott: The Green Lantern #1–6; DC Pride: Through the Years #1 story",
+      "issue": "Alan Scott: The Green Lantern #1–6; DC Pride: Through the Years #1 story",
+      "storyTitle": "Golden Age Alan Scott Miniseries",
+      "arc": "Alan Scott: The Green Lantern",
       "authors": ["Tim Sheridan", "Cian Tormey (art)"],
-      "characters": ["Alan Scott", "Red Lantern (Vladimir Sokov)"],
-      "arcs": "Dawn of DC Golden Age Alan Scott miniseries",
+      "characters": ["Alan Scott"],
       "read": false,
       "notes": "",
       "links": {
@@ -1095,63 +986,35 @@
         "gcd": "https://www.comics.org/series/201850/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Alan Scott: The Green Lantern TPB",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Alan+Scott+The+Green+Lantern"
-        }
-      ]
+      "editionIds": ["gl-alan-scott-tpb"]
     },
     {
-      "id": "if-03",
+      "id": "gl-if-03",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "3",
-      "title": "Green Lantern (2023) #1–15; Knight Terrors: GL #1–2; Absolute Power #1–4, Ground Zero #1 & Task Force VII #3",
-      "authors": ["Jeremy Adams", "Xermánico (art)", "Mark Waid (Absolute Power)"],
+      "issue": "Green Lantern (2023) #1–6; Knight Terrors: GL #1–2; GL #7–15; Absolute Power #1–4 & Ground Zero #1; Absolute Power: Task Force VII #3",
+      "storyTitle": "Back in Action (#1–6); Love and War (#7–12); Power of Will (#13–15, Task Force VII #3)",
+      "arc": "Dawn of DC: Return to Coast City",
+      "authors": ["Jeremy Adams (GL)", "Mark Waid (Absolute Power)", "Xermánico (art)"],
       "characters": ["Hal Jordan", "Carol Ferris", "Sinestro"],
-      "arcs": "Back in Action (#1–6), Love and War (#7–12), Power of Will (#13–15, Absolute Power tie-ins)",
       "read": false,
-      "notes": "Dawn of DC clean entry point",
+      "notes": "",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Vol_7_1",
         "gcd": "https://www.comics.org/series/196452/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern Vol. 1: Back in Action (#1–6, Knight Terrors #1–2)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+1+Back+in+Action"
-        },
-        {
-          "title": "Green Lantern Vol. 2: Love and War (#7–12)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+2+Love+and+War"
-        },
-        {
-          "title": "Green Lantern Vol. 3: Power of Will (#13–15, Task Force VII #3)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+3+Power+of+Will"
-        }
-      ]
+      "editionIds": ["gl-adams-tpbs"]
     },
     {
-      "id": "if-04",
+      "id": "gl-if-04",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "4 (Parallel)",
-      "title": "War Journal backups (GL #1–3); Green Lantern: War Journal #1–12; epilogue (GL #15)",
+      "issue": "War Journal backups (GL #1–3); Green Lantern: War Journal #1–12; epilogue (GL #15)",
+      "storyTitle": "Contagion (#1–6) & The Builder (#7–12)",
+      "arc": "Green Lantern: War Journal",
       "authors": ["Phillip Kennedy Johnson", "Osvaldo Montos (art)"],
-      "characters": ["John Stewart", "Revenant Queen"],
-      "arcs": "Contagion (#1–6) & The Builder (#7–12)",
+      "characters": ["John Stewart"],
       "read": false,
       "notes": "",
       "links": {
@@ -1159,24 +1022,17 @@
         "gcd": "https://www.comics.org/series/200891/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: War Journal Vol. 1: Contagion & Vol. 2: The Builder",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+War+Journal+Vol.+1"
-        }
-      ]
+      "editionIds": ["gl-war-journal-tpbs"]
     },
     {
-      "id": "if-05",
+      "id": "gl-if-05",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "5",
-      "title": "DC All-In Special #1; GL (2023) #16–24; Civil Corps Special #1; Fractured Spectrum Special #1; Justice League Red #1–6",
-      "authors": ["Jeremy Adams"],
+      "issue": "DC All-In Special #1; GL #16–24; Civil Corps Special #1; Fractured Spectrum Special #1; Justice League Red #1–6",
+      "storyTitle": "Civil Corps (#16–18 + specials) & Fractured Spectrum (#19–24)",
+      "arc": "DC All In: Civil Corps & Fractured Spectrum",
+      "authors": ["Jeremy Adams (GL)"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kyle Rayner", "Jessica Cruz"],
-      "arcs": "DC All In — Civil Corps (#16–18 + specials) & Fractured Spectrum (#19–24)",
       "read": false,
       "notes": "",
       "links": {
@@ -1184,88 +1040,53 @@
         "gcd": "https://www.comics.org/series/196452/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern Vol. 4: Civil Corps (#16–18 + specials) & Vol. 5: Fractured Spectrum (#19–24)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Vol.+4+Civil+Corps"
-        },
-        {
-          "title": "Justice League Red TPB (#1–6)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Justice+League+Red"
-        }
-      ]
+      "editionIds": ["gl-adams-tpbs"]
     },
     {
-      "id": "if-06",
+      "id": "gl-if-06",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "6",
-      "title": "Green Lantern Corps (2025) #1–6; The Starbreaker Supremacy (GL #25–27, GLC #7–9); GL #28–35 & GLC #10–16 (2026)",
+      "issue": "Green Lantern Corps (2025) #1–6; The Starbreaker Supremacy (GL #25–27, GLC #7–9); GL #28–35 & GLC #10–16 (2026)",
+      "storyTitle": "New World Rising (GLC #1–5) & The Starbreaker Supremacy (GL #25 -> GLC #7 -> GL #26 -> GLC #8 -> GL #27 -> GLC #9)",
+      "arc": "Green Lantern Corps (2025) & The Starbreaker Supremacy",
       "authors": ["Jeremy Adams", "Morgan Hampton"],
       "characters": ["Hal Jordan", "John Stewart", "Guy Gardner", "Kyle Rayner", "Jessica Cruz", "Simon Baz"],
-      "arcs": "New World Rising (GLC #1–5) & The Starbreaker Supremacy crossover (GL #25 -> GLC #7 -> GL #26 -> GLC #8 -> GL #27 -> GLC #9)",
       "read": false,
-      "notes": "Updated through October 2026 solicitations",
+      "notes": "Updated through October 2026",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern_Corps_Vol_4_1",
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern Corps Vol. 1: New World Rising (#1–5)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Corps+New+World+Rising"
-        },
-        {
-          "title": "Green Lantern / Green Lantern Corps: The Starbreaker Supremacy [2026] (GL #25–27, GLC #7–9)",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Starbreaker+Supremacy"
-        }
-      ]
+      "editionIds": ["gl-corps-2025-tpbs"]
     },
     {
-      "id": "if-07",
+      "id": "gl-if-07",
       "era": "Infinite Frontier, Dawn of DC, and DC All In (2021–2026)",
       "order": "7 (Parallel Alt-Universe)",
-      "title": "Absolute Green Lantern #1–19 (2025–2026)",
+      "issue": "Absolute Green Lantern #1–19 (2025–2026)",
+      "storyTitle": "Earth Alpha First-Contact Reimagining (Without Rings, Corps, or Traditional Willpower)",
+      "arc": "Absolute Green Lantern",
       "authors": ["Al Ewing", "Jahnoy Lindsay (art)", "Sid Kotian (art)"],
       "characters": ["Sojourner 'Jo' Mullein", "Hal Jordan", "John Stewart"],
-      "arcs": "Alternate-universe 'Earth Alpha' first-contact reimagining without rings, Corps, or traditional willpower",
       "read": false,
-      "notes": "Runs parallel in DC's Absolute Universe line through Oct 2026",
+      "notes": "",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Absolute_Green_Lantern_Vol_1_1",
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Absolute Green Lantern Hardcovers (Vol. 1 & Vol. 2 HC)",
-          "format": "Hardcover",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Absolute+Green+Lantern"
-        }
-      ]
+      "editionIds": ["gl-absolute-hcs"]
     },
     {
-      "id": "ew-01",
+      "id": "gl-ew-01",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "1 (Alternate Earths)",
-      "title": "Green Lantern: Earth One Vol. 1–2",
+      "issue": "Green Lantern: Earth One Vol. 1–2",
+      "storyTitle": "Grounded Sci-Fi Reimagining of Hal Jordan",
+      "arc": "Earth One",
       "authors": ["Gabriel Hardman", "Corinna Bechko"],
-      "characters": ["Hal Jordan", "Arisia", "Kilowog"],
-      "arcs": "Grounded hard sci-fi reimagining of Hal Jordan as an asteroid miner",
+      "characters": ["Hal Jordan", "Kilowog", "Arisia"],
       "read": false,
       "notes": "",
       "links": {
@@ -1273,24 +1094,17 @@
         "gcd": "https://www.comics.org/series/126251/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: Earth One Vol. 1 & Vol. 2 HCs",
-          "format": "Original Graphic Novel HC",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Earth+One"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     },
     {
-      "id": "ew-02",
+      "id": "gl-ew-02",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "2 (Alternate Earths)",
-      "title": "Tangent: Green Lantern #1, Tales of the GL #1, Superman's Reign #1–12; Green Lantern: Dark #1–7 (2024–2025)",
+      "issue": "Tangent: Green Lantern #1, Tales of the GL #1, Superman's Reign #1–12; Green Lantern: Dark #1–7 (2024–2025)",
+      "storyTitle": "Earth-9 Spirit-Wielding Lantern & Dark Fantasy Reimagining",
+      "arc": "Tangent Universe & Green Lantern: Dark",
       "authors": ["Dan Jurgens (Earth-9 creator)", "Tate Brombal (Dark)"],
       "characters": ["Tangent Green Lantern", "Rina Mori"],
-      "arcs": "Earth-9 spirit-wielding Lantern & dark fantasy Elseworlds GL: Dark",
       "read": false,
       "notes": "",
       "links": {
@@ -1298,24 +1112,17 @@
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Tangent Comics Vol. 1 & 3; Superman's Reign Vol. 1–2; Green Lantern: Dark TPB",
-          "format": "TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Dark"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     },
     {
-      "id": "ew-03",
+      "id": "gl-ew-03",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "3 (Young Adult)",
-      "title": "Green Lantern: Legacy, Alliance, Destiny, 'Dress Code' (Festival of Heroes #1); Unearthed: A Jessica Cruz Story",
-      "authors": ["Minh Lê", "Andie Tong (art)", "Lilliam Rivera"],
+      "issue": "Legacy, Alliance, Destiny, 'Dress Code' (Festival of Heroes #1); Unearthed: A Jessica Cruz Story",
+      "storyTitle": "13-Year-Old Tai Pham Inherits His Grandmother's Jade Ring (Earth-98) & Jessica Cruz YA OGN",
+      "arc": "Young Adult Graphic Novels",
+      "authors": ["Minh Lê (Legacy trilogy)"],
       "characters": ["Tai Pham", "Jessica Cruz"],
-      "arcs": "13-year-old Tai Pham inherits his grandmother's jade ring (Earth-98); standalone YA graphic novels",
       "read": false,
       "notes": "",
       "links": {
@@ -1323,74 +1130,53 @@
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Green Lantern: Legacy / Alliance / Destiny & Unearthed YA Graphic Novels",
-          "format": "YA Graphic Novel",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+Legacy+Minh+Le"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     },
     {
-      "id": "ew-04",
+      "id": "gl-ew-04",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "4 (Elseworlds)",
-      "title": "Batman: In Darkest Knight; GL Annual (1990) #3; 1001 Emerald Nights; Evil's Might #1–3; Just Imagine Stan Lee #1; DC: The New Frontier; Earth 2; Tales from the Dark Multiverse: Blackest Night #1",
+      "issue": "Batman: In Darkest Knight; GL Annual (1990) #3; 1001 Emerald Nights; Evil's Might #1–3; Just Imagine Stan Lee #1; DC: The New Frontier; Earth 2; Tales from the Dark Multiverse: Blackest Night #1",
+      "storyTitle": "Classic Elseworlds & Alternate Universe One-Shots/Miniseries",
+      "arc": "Elseworlds",
       "authors": ["Mike W. Barr", "David DeVries", "Terry LaBan", "Howard Chaykin", "Stan Lee", "Darwyn Cooke"],
       "characters": ["Bruce Wayne (GL)", "Hal Jordan", "Alan Scott", "Kyle Rayner"],
-      "arcs": "Classic Elseworlds & alternate universe one-shots/miniseries",
       "read": false,
-      "notes": "Evil's Might #1–3 is digital-only",
+      "notes": "Evil's Might is digital-only",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Batman:_In_Darkest_Knight",
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Elseworlds: Batman Omnibus Vol. 1; Elseworlds: Justice League Omnibus Vol. 1 & 3; Just Imagine Book One; DC: The New Frontier",
-          "format": "Omnibus / TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Elseworlds+Justice+League+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     },
     {
-      "id": "ew-05",
+      "id": "gl-ew-05",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "5 (Inter-Company)",
-      "title": "Star Trek/GL: Spectrum War & Stranger Worlds; GL/Silver Surfer #1; Iron Lantern #1; GL/Space Ghost #1; GL/Huckleberry Hound #1; GL vs. Aliens #1–4; Planet of the Apes: GL #1–6",
+      "issue": "Star Trek/GL: Spectrum War & Stranger Worlds; GL/Silver Surfer: Unholy Alliances #1; Iron Lantern #1; GL/Space Ghost #1; GL/Huckleberry Hound #1; GL vs. Aliens #1–4; Planet of the Apes: GL #1–6",
+      "storyTitle": "Crossovers with Star Trek, Silver Surfer, Amalgam, Space Ghost, Hanna-Barbera, Aliens & Planet of the Apes",
+      "arc": "Inter-Company Crossovers",
       "authors": ["Mike Johnson", "Ron Marz", "Kurt Busiek", "James Tynion IV", "Mark Russell", "Robbie Thompson"],
       "characters": ["Hal Jordan", "Kyle Rayner", "John Stewart"],
-      "arcs": "Inter-company crossovers (Marvel, Amalgam, Star Trek, Dark Horse, Hanna-Barbera)",
       "read": false,
-      "notes": "GL/Huckleberry Hound #1 is digital-only",
+      "notes": "Huckleberry Hound is digital-only",
       "links": {
         "dc_wiki": "https://dc.fandom.com/wiki/Green_Lantern/Silver_Surfer:_Unholy_Alliances_Vol_1_1",
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "DC Versus Marvel Omnibus; Amalgam Age Omnibus; DC Meets Hanna-Barbera Vol. 1; Dark Horse/DC: Justice League Vol. 2",
-          "format": "Omnibus / TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=DC+Versus+Marvel+Omnibus"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     },
     {
-      "id": "ew-06",
+      "id": "gl-ew-06",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "6 (Lost Tales & Media)",
-      "title": "Flash & GL: The Brave and the Bold #1–6; GL: Willworld; Silver Age: GL #1; DC Retroactive: GL '70s/'80s/'90s; GL: The Animated Series #0–14; Movie Prequels (5 one-shots); The Power of Green #1",
+      "issue": "Flash & GL: The Brave and the Bold #1–6; GL: Willworld; Silver Age: GL #1; DC Retroactive: GL '70s / '80s / '90s; GL: The Animated Series #0–14; Movie Prequels (5 one-shots); The Power of Green #1",
+      "storyTitle": "Out-of-Era Tales, Willworld & Media Tie-Ins",
+      "arc": "Lost Tales & Media",
       "authors": ["Mark Waid", "J.M. DeMatteis", "Kurt Busiek", "Dennis O'Neil", "Len Wein", "Ron Marz"],
       "characters": ["Hal Jordan", "The Flash"],
-      "arcs": "Out-of-era retro tales, Willworld, and Animated Series / film tie-ins",
       "read": false,
       "notes": "Animated Series #12–14 & Retroactive '90s uncollected",
       "links": {
@@ -1398,24 +1184,17 @@
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "Flash & GL: The Brave & the Bold Deluxe; Hard-Traveling Heroes Omnibus ('70s); DC Universe by Len Wein ('80s); Animated Series Vol. 1–2",
-          "format": "Deluxe HC / TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Flash+and+Green+Lantern+The+Brave+and+the+Bold"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     },
     {
-      "id": "ew-07",
+      "id": "gl-ew-07",
       "era": "Elseworlds, Crossovers, and Standalone Lost Tales",
       "order": "7 (Anthologies)",
-      "title": "Green Lantern: 75 Years; John Stewart: 50 Years; 80 Years of the Emerald Knight; Greatest Stories Ever Told",
+      "issue": "75 Years; John Stewart: 50 Years; 80 Years of the Emerald Knight; Greatest Stories Ever Told",
+      "storyTitle": "Curated Career-Spanning Milestone Collections",
+      "arc": "Milestone Anthologies",
       "authors": ["Various"],
       "characters": ["Alan Scott", "Hal Jordan", "John Stewart", "Guy Gardner", "Kyle Rayner"],
-      "arcs": "Curated career-spanning milestone anthology collections",
       "read": false,
       "notes": "",
       "links": {
@@ -1423,15 +1202,7 @@
         "gcd": "https://www.comics.org/",
         "dcui": ""
       },
-      "editions": [
-        {
-          "title": "75 Years HC; John Stewart: 50 Years HC; 80 Years of the Emerald Knight HC; Greatest Stories Ever Told TPB",
-          "format": "Anthology HC / TPB",
-          "owned": false,
-          "uncollected": false,
-          "locg_url": "https://leagueofcomicgeeks.com/search?keyword=Green+Lantern+80+Years+of+the+Emerald+Knight"
-        }
-      ]
+      "editionIds": ["gl-elseworlds-editions"]
     }
   ]
 }
